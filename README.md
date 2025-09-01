@@ -24,28 +24,6 @@ Here are some of the plots you will create:
 - **Bar Plots**: To compare quantities among different groups.
 - **Scatter Plots**: To observe relationships between variables.
 
-## 🛠️ How to Use
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/sridharchinthaparthi/TAI-IP-Data-Science/exploring-visualizing-dataset.git
-    cd exploring-visualizing-dataset
-    ```
-
-2. **Install the required libraries**:
-    ```sh
-    pip install pandas matplotlib seaborn
-    ```
-
-3. **Run the Jupyter Notebook**:
-    ```sh
-    jupyter notebook
-    ```
-    Open the `exploration_visualization.ipynb` notebook to start exploring and visualizing the dataset.
-
-## 📂 Project Structure
-
-- `notebooks/`: Jupyter notebooks for data exploration and visualization.
 
 ## 🤝 Contributing
 
